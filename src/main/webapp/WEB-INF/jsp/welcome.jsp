@@ -25,6 +25,7 @@
         </div>
         
 <%-- This is JSP comment by mahendra--%>
+<%-- This is JSP comment by hamid--%>
 </footer>
 </body>
 
