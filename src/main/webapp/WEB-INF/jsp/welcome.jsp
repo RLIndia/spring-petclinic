@@ -23,6 +23,8 @@
         <div style="color:white;float:right;margin-right:10px;font-size:16px">
             <p style="padding-top: 10px; padding-left: 20px;">Version:1.0.0</p>
         </div>
+        
+<%-- This is JSP comment by mahendra--%>
 </footer>
 </body>
 
