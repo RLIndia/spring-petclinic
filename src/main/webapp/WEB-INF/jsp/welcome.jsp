@@ -24,7 +24,7 @@
             <p style="padding-top: 10px; padding-left: 20px;">Version:1.0.0</p>
         </div>
         
-<%-- This is JSP comment by mahendra--%>
+<%-- This is JSP comment by mahendras--%>
 </footer>
 </body>
 
