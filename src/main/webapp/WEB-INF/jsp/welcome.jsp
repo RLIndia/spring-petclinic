@@ -18,15 +18,13 @@
     <jsp:include page="fragments/footer.jsp"/>
 </div>
 <footer style="background: none repeat scroll 0 0 #222 !important;background-image: linear-gradient(to bottom, #f3f3f3, #e2e2e2); bottom: 0px; min-height: 20px;position:fixed;width:100%">
-        <div style="color:white;float:left">           
+        <div style="color:green;float:left">           
         </div>
         <div style="color:white;float:right;margin-right:10px;font-size:16px">
             <p style="padding-top: 10px; padding-left: 20px;">Version:1.0.0</p>
         </div>
         
 <%-- This is JSP comment by mahendras--%>
-<%-- This is JSP comment by Hamid--%>
-<%-- This is JSP comment by Hamid--%>
 <%-- This is JSP comment by Hamid--%>
 
 </footer>
