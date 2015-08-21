@@ -26,6 +26,8 @@
         
 <%-- This is JSP comment by mahendras--%>
 <%-- This is JSP comment by Hamid--%>
+<%-- This is JSP comment by Hamid--%>
+
 </footer>
 </body>
 
