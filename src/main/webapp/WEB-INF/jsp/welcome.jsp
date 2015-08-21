@@ -17,7 +17,7 @@
 
     <jsp:include page="fragments/footer.jsp"/>
 </div>
-<footer style="background: none repeat scroll 0 0 #222 !important;background-image: linear-gradient(to bottom, #f3f3f3, #e2e2e2); bottom: 0px; min-height: 20px;position:fixed;width:100%">
+<footer style="background: none repeat scroll 0 0 #555 !important;background-image: linear-gradient(to bottom, #f3f3f3, #e2e2e2); bottom: 0px; min-height: 20px;position:fixed;width:100%">
         <div style="color:green;float:left">           
         </div>
         <div style="color:white;float:right;margin-right:10px;font-size:16px">
