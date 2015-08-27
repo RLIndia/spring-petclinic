@@ -392,10 +392,10 @@
 	<!--  nexus integration starts -->
 
 <distributionManagement>
-  <site>
-    <id>supercatalyst</id>
-    <url>http://54.153.121.112:8081/nexus/content/sites/supercatalyst</url>
-  </site>
+  <repository>
+    <id>releases</id>
+    <url>http://54.153.121.112:8081/nexus/content/repositories/releases</url>
+  </repository>
 </distributionManagement>
 
 <!--  nexus integration ends  -->
