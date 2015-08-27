@@ -388,6 +388,17 @@
 			</plugin>
 		</plugins>
 	</reporting>
+	
+	<!--  nexus integration starts -->
+
+<distributionManagement>
+  <site>
+    <id>supercatalyst</id>
+    <url>http://54.153.121.112:8081/nexus/content/sites/supercatalyst</url>
+  </site>
+</distributionManagement>
+
+<!--  nexus integration ends  -->
 
 	<url>demopetclinic</url>
 </project>
