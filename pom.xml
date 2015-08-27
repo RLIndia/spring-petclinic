@@ -398,19 +398,6 @@
   </site>
 </distributionManagement>
 
-
-<server>
-            <id>deployment</id>
-            <username>deployment</username>
-            <password>deployment123</password>
-        </server>
-
-        <server>
-            <id>snapshots</id>
-            <username>deployment</username>
-            <password>deployment123</password>
-        </server>
-
 <!--  nexus integration ends  -->
 
 	<url>demopetclinic</url>
