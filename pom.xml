@@ -392,7 +392,7 @@
 	<!--  nexus integration starts -->
 <distributionManagement>
   <repository>
-   <id>deployment</id>
+   <id>releases</id>
    <name>Releases</name>
    <url>>http://52.8.229.30:8081/nexus/content/repositories/releases</url>
   </repository>
