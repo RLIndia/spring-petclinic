@@ -396,11 +396,6 @@
    <name>Releases</name>
    <url>>http://52.8.229.30:8081/nexus/content/repositories/releases</url>
   </repository>
-  <snapshotRepository>
-   <id>snapshots</id>
-   <name>Snapshots</name>
-   <url>>http://52.8.229.30:8081/nexus/content/repositories/snapshots</url>
-  </snapshotRepository>
  </distributionManagement>
 
 <!--  nexus integration ends  -->
